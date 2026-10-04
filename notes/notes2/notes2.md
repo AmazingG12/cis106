@@ -13,7 +13,7 @@ A command-line shell which is a program that provides a text-based interface. It
 Linux is a free , open source and highly customizable Unix-like operating system that is the foundation for internet servers and computing devices. 
 
 ## 5. What is a Linux distribution?
-Linux Kernal, Core Unix Tool,Supplemental softwares, Start up Scripts and an installer make up the Linux Distribution.The components are Applications,Graphical Desktop Environment, Daemons,SHells,Linux Kernel and Hardware. It is a ready to use version of the Linux operating system and most distributes software packages.
+Linux Kernel, Core Unix Tool,Supplemental softwares, Start up Scripts and an installer make up the Linux Distribution.The components are Applications,Graphical Desktop Environment, Daemons,Shells,Linux Kernel and Hardware. It is a ready to use version of the Linux operating system and most distributes software packages.
 
 ## 6. List at least 4 Linux characteristics:
 Linux is an open source, free of charge,with a system that is highly customizable while also offering broad compatibility with almost anu processor architecture.
