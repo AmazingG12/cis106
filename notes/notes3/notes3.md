@@ -3,7 +3,6 @@
 ## What is a graphical user interface (GUI)?
 A graphical user interface is a set of program that allows a user to interact with the computer system via icons, windows, and various other visual elements.
 
-    
 ## What is a desktop environment?
 A desktop environment provides a predetermined look and feel to the GUI which is broken up to graphical sections and functions such as desktop settings,menus,display manager panels and the list goes on.
     
